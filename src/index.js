@@ -13,5 +13,7 @@ const app = <Provider store={store}>
 	</BrowserRouter>
 </Provider>
 
+// test
+
 ReactDOM.render(app, document.getElementById('root'));
 
